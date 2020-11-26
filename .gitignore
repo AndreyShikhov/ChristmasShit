@@ -75,3 +75,4 @@ DerivedDataCache/*
 
 # Local configuration and logs and backups
 Saved/*
+Intermediate/*
